@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 🧬 Contributing to Research in ~~CANCER~~ Immunology Using Single-cell Multi Omics and Machine Learning
 - 🌱 My Personal Website: [arashabadi.github.io](https://arashabadi.github.io)
 - 📫 How to Reach Me: arash.bagherabadi@gmail.com
-
+- 🎓 University of Alabama at Birmingham, AL, USA
+  
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/arash_b_abadi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arashbagherabadi/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arash.b.abadi)
