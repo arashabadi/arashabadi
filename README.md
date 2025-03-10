@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Arash Bagher Abadi
+
+- 💻 Highly Motivated PhD Student in Computational Biology and Bioinformatics (R, Python, Bash, etc.)
+- 📄 [Published](https://scholar.google.com/citations?user=Jk-OzNQAAAAJ&hl=en) Peer-reviewed Papers and International Conference Abstracts in Bioinformatics and Computational Biology
+- 🧬 Contributing to Research in CANCER Immunology Using Single-cell Multi Omics, Structural Bioinformatics, and Machine Learning
+- 🌱 My Personal Website: arashabadi.github.io
+- 📫 How to Reach Me: arash.bagherabadi@gmail.com
+
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/arash_b_abadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arashbagherabadi/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arash.b.abadi)
