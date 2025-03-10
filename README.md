@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Arash Bagher Abadi
 
 - 💻 Highly Motivated PhD Student in Computational Biology and Bioinformatics (R, Python, Bash, etc.)
-- 🧬 Contributing to Research in CANCER Immunology Using Single-cell Multi Omics, Structural Bioinformatics, and Machine Learning
+- 🧬 Contributing to Research in ~~CANCER~~ Immunology Using Single-cell Multi Omics and Machine Learning
 - 🌱 My Personal Website: [arashabadi.github.io](arashabadi.github.io)
 - 📫 How to Reach Me: arash.bagherabadi@gmail.com
 
