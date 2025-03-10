@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💻 Highly Motivated PhD Student in Computational Biology and Bioinformatics (R, Python, Bash, etc.)
 - 🧬 Contributing to Research in ~~CANCER~~ Immunology Using Single-cell Multi Omics and Machine Learning
-- 🌱 My Personal Website: [arashabadi.github.io](arashabadi.github.io)
+- 🌱 My Personal Website: [arashabadi.github.io](https://arashabadi.github.io)
 - 📫 How to Reach Me: arash.bagherabadi@gmail.com
 
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/arash_b_abadi)
