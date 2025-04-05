@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 💻 Highly Motivated PhD Student in Computational Biology and Bioinformatics (R, Python, Bash, etc.)
 - 🧬 Contributing to Research in ~~CANCER~~ Immunology Using Single-cell Multi Omics and Machine Learning
 - 🎓 University of Alabama at Birmingham ([UAB](https://www.uab.edu/gbs/home/))
-- 🌱 My Personal Website: [arashabadi.github.io](https://arashabadi.github.io)
-- 📫 How to Reach Me: arash.bagherabadi@gmail.com
+- 🌱 My Personal Website and contact info: [arashabadi.github.io](https://arashabadi.github.io)
+
   
