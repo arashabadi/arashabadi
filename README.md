@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 -->
 # Arash Bagher Abadi
 
-- 💻 Highly Motivated PhD Student in Computational Biology and Bioinformatics (R, Python, Bash, etc.)
-- 🧬 Contributing to Research in ~~CANCER~~ Immunology Using Single-cell Multi Omics and Machine Learning
+- 💻 PhD Student in Computational Immunology
 - 🎓 University of Alabama at Birmingham ([UAB](https://www.uab.edu/gbs/home/))
 - 🌱 Personal Website and Contact Info: [arashabadi.github.io](https://arashabadi.github.io)
 
