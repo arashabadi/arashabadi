@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 # Arash Bagher Abadi
 
-- 💻 PhD Student in Computational Immunology
+- 💻 PhD Student, Computational Immunology Stuff
 - 🎓 University of Alabama at Birmingham ([UAB](https://www.uab.edu/gbs/home/))
 - 🌱 Personal Website and Contact Info: [arashabadi.github.io](https://arashabadi.github.io)
 
