@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 # Arash Bagher Abadi
 
-- 💻 PhD student in Genetic, Genomics and Bioinformatics at UAB, studying B cells and Tregs immunobiology using single-cell and spatial transcriptomics with applications in vaccines and immunotherapy.
+- 💻 PhD student in Genetics, Genomics and Bioinformatics (GGB) at UAB, studying B cells and Tregs immunobiology using single-cell and spatial transcriptomics with applications in vaccines and immunotherapy.
 
 - 🌱 Personal Website and Contact Info: [arashabadi.github.io](https://arashabadi.github.io)
 
