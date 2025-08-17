@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 # Arash Bagher Abadi
 
-- 💻 I am a highly motivated PhD student at the University of Alabama at Birmingham, with growing experience in B cell biology in infection and regulatory T cell biology across cancer and obesity contexts. I’m actively building expertise in single-cell and spatial transcriptomics, bioinformatics pipelines, and machine learning, with a strong interest in their application to vaccines and immunotherapy.
+- 💻 PhD student in Computational Immunology at UAB, studying B cells and Tregs using single-cell and spatial transcriptomics with applications in vaccines and immunotherapy.
 
 - 🌱 Personal Website and Contact Info: [arashabadi.github.io](https://arashabadi.github.io)
 
