@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -->
 # Arash Bagher Abadi
 
-- 💻 PhD Student, Computational Immunology Stuff
-- 🎓 University of Alabama at Birmingham ([UAB](https://www.uab.edu/gbs/home/))
+- 💻 I am a highly motivated PhD student at the University of Alabama at Birmingham, with growing experience in B cell biology in infection and regulatory T cell biology across cancer and obesity contexts. I’m actively building expertise in single-cell and spatial transcriptomics, bioinformatics pipelines, and machine learning, with a strong interest in their application to vaccines and immunotherapy.
+
 - 🌱 Personal Website and Contact Info: [arashabadi.github.io](https://arashabadi.github.io)
 
   
